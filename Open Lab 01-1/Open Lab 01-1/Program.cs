@@ -6,7 +6,7 @@ namespace Open_Lab_01_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello XamarinLab!");
         }
     }
 }
