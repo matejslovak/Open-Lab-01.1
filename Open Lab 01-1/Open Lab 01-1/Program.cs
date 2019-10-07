@@ -6,7 +6,7 @@ namespace Open_Lab_01_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Test!");
+            Console.WriteLine("Testujem GitHub");
         }
     }
 }
